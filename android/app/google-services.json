@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "86667502687",
+    "project_id": "mi-show-to-go",
+    "storage_bucket": "mi-show-to-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86667502687:android:28e6028a5bd427ec3827ea",
+        "android_client_info": {
+          "package_name": "com.music.mishowtogoflutter.mishowtogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86667502687-roq0k5f5gffj00b15seegpcg51akkkr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.music.mishowtogoflutter.mishowtogo",
+            "certificate_hash": "f4079fed24a4a9edd624a227d30a07042c403482"
+          }
+        },
+        {
+          "client_id": "86667502687-km7ee6ab0e34u2s41oi3hvt8cipvmpsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwL1z2Gl5VIRkTOXlNEDUFzorQvJ7_7Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86667502687-km7ee6ab0e34u2s41oi3hvt8cipvmpsb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86667502687-kel0t74at2bnflsk8j5bn88ngkvp25am.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.music.mishowtogoflutter.mishowtogo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
